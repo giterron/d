@@ -1,4 +1,6 @@
-{ "lives": [{
+{"spider":"",
+
+ "lives": [{
             "name": "直播",
             "type": 0,
             "url": "http://df.rf.gd/t.txt"}]}
