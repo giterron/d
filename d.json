@@ -1,6 +1,12 @@
-{"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/giterron/b/main/b.json",
+{"spider":"",
+"sites":[]
 
- "lives": [{
-            "name": "直播",
-            "type": 0,
-            "url": "http://df.rf.gd/t.txt"}]}
+
+
+
+"lives":[{
+      "name": "直播",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/giterron/b/main/b.txt"
+    }
+]}
