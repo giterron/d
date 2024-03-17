@@ -1,0 +1,24 @@
+{
+    "spider": "",
+    "lives": [{
+            "name": "直播",
+            "type": 0,
+            "url": "http://df.rf.gd/t.txt",
+                    
+            
+        }, {
+            "group": "redirect",
+            "channels": [{
+                    "name": "live",
+                    "urls": []
+                }
+            ],
+           
+        }
+    ],
+    "rules": [],
+    "sites": [],
+    "parses": [],
+    "flags": [],
+    "wallpaper": ""
+}
